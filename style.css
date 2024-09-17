@@ -1,0 +1,42 @@
+* {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color:bisque;
+    color:brown;
+    font-size: 32px;
+    font-weight: 800;
+}
+
+ul {
+    background-color:rgb(170, 114, 114);
+}
+
+#direction {
+    color:rgb(170, 62, 0);
+}
+
+#ingredients {
+    color:rgb(92, 1, 92);
+}
+
+ol {
+    background-color:rgb(214, 157, 110);
+
+}
+
+p {
+    background-color:burlywood;
+   
+
+}
+
+.direction {
+    color:rgb(170, 62, 0);
+}
+
+.ingredients {
+    color:rgb(92, 1, 92);
+}
