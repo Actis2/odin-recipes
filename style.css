@@ -10,6 +10,12 @@ h1 {
     font-weight: 800;
 }
 
+.header2 {
+    background-color:aqua;
+    color:rgb(139, 0, 0);
+
+}
+
 ul {
     background-color:rgb(170, 114, 114);
 }
@@ -39,4 +45,19 @@ p {
 
 .ingredients {
     color:rgb(92, 1, 92);
+}
+
+.eggs {
+    color:goldenrod;
+    background-color:antiquewhite;
+}
+
+.rice {
+    color:antiquewhite;
+    background-color:peru;
+}
+
+.butter {
+    color:darkgoldenrod;
+    background-color: yellow;
 }
