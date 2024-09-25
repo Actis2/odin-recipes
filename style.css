@@ -1,8 +1,10 @@
+
 .PBJ {
     display: border-box;
     border:5px solid sandybrown;
     color:peru;
     background-color:rebeccapurple;
+
 
 }
 
@@ -26,6 +28,7 @@
     color:lightgoldenrodyellow;
     
 }
+
 
 .red{
     border: 2px solid;
