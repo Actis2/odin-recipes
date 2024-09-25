@@ -1,42 +1,41 @@
-* {
-    font-size: 22px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-h1 {
-    background-color:bisque;
-    color:brown;
-    font-size: 32px;
-    font-weight: 800;
-}
-
-ul {
-    background-color:rgb(170, 114, 114);
-}
-
-#direction {
-    color:rgb(170, 62, 0);
-}
-
-#ingredients {
-    color:rgb(92, 1, 92);
-}
-
-ol {
-    background-color:rgb(214, 157, 110);
+.PBJ {
+    display: border-box;
+    border:5px solid sandybrown;
+    color:peru;
+    background-color:rebeccapurple;
 
 }
 
-p {
-    background-color:burlywood;
-   
+.lasagna {
+    border: 5px solid orangered;
+    color:tomato;
+    background-color:palegoldenrod;
 
 }
 
-.direction {
-    color:rgb(170, 62, 0);
+.yellow{
+    border: 2px ridge;
+    background-color:goldenrod;
+    color:lightgoldenrodyellow;
+
 }
 
-.ingredients {
-    color:rgb(92, 1, 92);
+.brown{
+    border: 2px dashed;
+    background-color:rgb(95, 57, 8);
+    color:lightgoldenrodyellow;
+    
+}
+
+.red{
+    border: 2px solid;
+    background-color:orangered;
+    color:lemonchiffon;
+    
+}
+
+.white {
+    border: 2px dotted;
+    background-color:orange;
+    color:bisque;
 }
