@@ -1,9 +1,23 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.item {
+    width: 150px;
+    height: 150px;
+    padding: 1em;
+    font-weight: 500;
+    text-align: center;
+    border: 10px solid;
+
+}
 
 .PBJ {
     display: border-box;
     border:5px solid sandybrown;
     color:peru;
-    background-color:rebeccapurple;
+    background-color:rgb(188, 144, 233);
 
 
 }
